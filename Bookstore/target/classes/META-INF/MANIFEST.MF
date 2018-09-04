@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Bookstore
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: a1800625
+Implementation-Vendor-Id: tinot.bookstore
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Bookstore
+Created-By: Maven Integration for Eclipse
+
